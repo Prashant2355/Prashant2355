@@ -45,5 +45,5 @@ Performed EDA and predictive modeling to improve campaign targeting (F1-score: 0
 Open to opportunities in **product-based, service-based, and analytics-driven companies**.
 
 ## 📫 Let’s Connect
-- 💼 LinkedIn: (add your LinkedIn link)
+- 💼 LinkedIn: https://www.linkedin.com/in/prashant-arya-a88108185/
 - 📧 Email: prashantarya074@gmail.com
