@@ -19,14 +19,11 @@ Translate business problems into analytical solutions
 
 ## 📂 Featured Projects
 
-🔹 Social Media Sentiment Analysis
-Analyzed social media data using NLP techniques to identify customer sentiment and trends.
+🔹 Bank Marketing Analytics
+Performed EDA and predictive modeling to improve campaign targeting (F1-score: 0.83).
 
 🔹 Movie Recommender System
 Built a content-based recommendation system using TF-IDF and cosine similarity, deployed with Streamlit.
-
-🔹 Bank Marketing Analytics
-Performed EDA and predictive modeling to improve campaign targeting (F1-score: 0.83).
 
 👉 Check my repositories for code, notebooks, and insights.
 
